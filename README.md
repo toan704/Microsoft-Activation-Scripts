@@ -1,3 +1,9 @@
+DDAWNG CAAPS
+slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+slmgr /skms kms8.msguides.com
+slmgr /ato
+
+
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
@@ -108,4 +114,5 @@ Release date: 19-Nov-2025
 ---
 
 <p align="center">Made with Love ❤️</p>
+
 
